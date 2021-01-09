@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Panel-React-Tailwind/static/css/main.f2eb21c0.chunk.css",
+    "main.js": "/Panel-React-Tailwind/static/js/main.6b816c87.chunk.js",
+    "main.js.map": "/Panel-React-Tailwind/static/js/main.6b816c87.chunk.js.map",
+    "runtime-main.js": "/Panel-React-Tailwind/static/js/runtime-main.bc328b2a.js",
+    "runtime-main.js.map": "/Panel-React-Tailwind/static/js/runtime-main.bc328b2a.js.map",
+    "static/js/2.016fd8a1.chunk.js": "/Panel-React-Tailwind/static/js/2.016fd8a1.chunk.js",
+    "static/js/2.016fd8a1.chunk.js.map": "/Panel-React-Tailwind/static/js/2.016fd8a1.chunk.js.map",
+    "static/js/3.9cfaf463.chunk.js": "/Panel-React-Tailwind/static/js/3.9cfaf463.chunk.js",
+    "static/js/3.9cfaf463.chunk.js.map": "/Panel-React-Tailwind/static/js/3.9cfaf463.chunk.js.map",
+    "index.html": "/Panel-React-Tailwind/index.html",
+    "service-worker.js": "/Panel-React-Tailwind/service-worker.js",
+    "service-worker.js.map": "/Panel-React-Tailwind/service-worker.js.map",
+    "static/css/main.f2eb21c0.chunk.css.map": "/Panel-React-Tailwind/static/css/main.f2eb21c0.chunk.css.map",
+    "static/js/2.016fd8a1.chunk.js.LICENSE.txt": "/Panel-React-Tailwind/static/js/2.016fd8a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc328b2a.js",
+    "static/js/2.016fd8a1.chunk.js",
+    "static/css/main.f2eb21c0.chunk.css",
+    "static/js/main.6b816c87.chunk.js"
+  ]
+}
